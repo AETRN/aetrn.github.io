@@ -18,12 +18,27 @@
 | Charisma     | 12    | +1       |
 
 ## Skills
-| Skill             | Modifier |
-|-------------------|----------|
-| Athletics         | +5       |
-| Intimidation      | +3       |
-| Deception         | +3       |
-| Sleight of Hand   | +3       |
+| Skill             | Proficiency | Modifier |
+|-------------------|-------------|----------|
+| Athletics         |+2           |+5        |
+| Intimidation      |+2           |+3        |
+| Deception         |+2           |+3        |
+| Sleight of Hand   |+2           |+3        |
+| Acrobatics        |             |+1        |
+| Animal Handling   |             |+0        |
+| Arcana            |             |-1        |
+| History           |             |-1        |
+| Insight           |             |+0        |
+| Investigation     |             |-1        |
+| Medicine          |             |+0        |
+| Nature            |             |-1        |
+| Perception        |             |+0        |
+| Performance       |             |+1        |
+| Persuasion        |             |+1        |
+| Religion          |             |-1        |
+| Stealth           |             |+1        |
+| Survival          |             |+0        |
+
 
 ## Proficiencies and Languages
 - **Armor:** Light armor, medium armor, shields
